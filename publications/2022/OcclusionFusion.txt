@@ -1,0 +1,4 @@
+标题：OcclusionFusion: Occlusion-aware Motion Estimation for Real-time Dynamic 3D Reconstruction
+作者：Wenbin Lin, Chengwei Zheng, Jun-Hai Yong, Feng Xu
+刊物：IEEE International Conference on Computer Vision and Pattern Recognition (CVPR) 2022
+Project链接：https://wenbin-lin.github.io/OcclusionFusion/

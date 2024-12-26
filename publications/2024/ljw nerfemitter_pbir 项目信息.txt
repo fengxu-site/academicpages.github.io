@@ -1,0 +1,3 @@
+Jingwang Ling, Ruihan Yu, Feng Xu, Chun Du, Shuang Zhao, "NeRF as a Non-Distant Environment Emitter in Physics-based Inverse Rendering", ACM SIGGRAPH (conference track full paper) 2024
+
+Project: https://nerfemitterpbir.github.io/
