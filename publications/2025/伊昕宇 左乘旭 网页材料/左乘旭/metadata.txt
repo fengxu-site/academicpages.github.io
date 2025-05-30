@@ -1,0 +1,9 @@
+Chengxu Zuo, Jiawei Huang, Xiao Jiang, Yuan Yao, Xiangren Shi, Rui Cao, Xinyu Yi, Feng Xu, Shihui Guo, Yipeng Qin
+
+Transformer IMU Calibrator: Dynamic On-body IMU Calibration for Inertial Motion Capture
+
+ACM SIGGRAPH 2025
+
+Project: https://github.com/ZuoCX1996/TIC
+
+Video: https://youtu.be/xu2v_yPJoLs

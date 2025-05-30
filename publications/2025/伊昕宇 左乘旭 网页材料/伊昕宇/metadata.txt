@@ -1,0 +1,9 @@
+Xinyu Yi, Shaohua Pan, Feng Xu
+
+Improving Global Motion Estimation in Sparse IMU-based Motion Capture with Physics
+
+ACM SIGGRAPH 2025
+
+Project: https://xinyu-yi.github.io/GlobalPose/
+
+Video: https://youtu.be/2kBgIQgnS3g

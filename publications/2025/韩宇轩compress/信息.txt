@@ -1,0 +1,7 @@
+Facial Appearance Capture at Home with Patch-Level Reflectance Prior
+
+ACM Transactions on Graphics (Proc. of SIGGRAPH), 2025
+
+Yuxuan Han, Junfeng Lyu, Kuan Sheng, Minghao Que, Qixuan Zhang, Lan Xu, Feng Xu
+
+project网址：https://yxuhan.github.io/DoRA

@@ -1,0 +1,3 @@
+Tianyu Huang, Jingwang Ling, Shuang Zhao, Feng Xu, “Guiding-Based Importance Sampling for Walk on Stars”, ACM SIGGRAPH (conference-track full paper) 2025
+
+Project: https://illumiart.net/the-guiding-stars/
