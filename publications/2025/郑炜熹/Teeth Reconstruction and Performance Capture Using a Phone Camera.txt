@@ -1,0 +1,3 @@
+Teeth Reconstruction and Performance Capture Using a Phone Camera
+Proceedings of the IEEE/CVF International Conference on Computer Vision. 2025
+Weixi Zheng, Jingwang Ling, Zhibo Wang, Quan Wang, Feng Xu

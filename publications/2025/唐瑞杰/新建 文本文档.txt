@@ -1,0 +1,1 @@
+Ruijie Tang, Yuchen Guo, Hengrui Liang, Jianxing He, Yuerong Lizhu, Yaou Liu, Feng Xu, "S2S: A deep learning method for the radiological diagnosis of fine-grained diseases spanning screening to subtyping", Patterns 2025

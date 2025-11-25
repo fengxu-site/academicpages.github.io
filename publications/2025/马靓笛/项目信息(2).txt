@@ -1,0 +1,1 @@
+Liangdi Ma, Hengrui Liang, Yuwei He, Wei Wang, Zeping Yan, Wuchao Li, Rongpin Wang, Yongyi Li, Yuerong Lizhu, Yaou Liu, Yuchen Guo, Jianxing He, and Feng Xu, "A vision–language pretrained transformer for versatile clinical respiratory disease applications". Nature Biomedical Engineering 2025

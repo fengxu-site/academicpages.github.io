@@ -1,0 +1,3 @@
+Libo Zhang, Xinyu Yi, Feng Xu "BaroPoser: Real-time Human Motion Tracking from IMUs and Barometers in Everyday Devices", UIST 2025
+
+Project: https://zhanglbthu.github.io/BaroPoser/
