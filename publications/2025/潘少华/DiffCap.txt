@@ -1,0 +1,4 @@
+Shaohua Pan, Xinyu Yi, Yan Zhou, Weihua Jian, Yuan Zhang, Pengfei Wan, Feng Xu, "DiffCap: Diffusion-based Real-time Human Motion Capture using Sparse IMUs and a Monocular Camera", IEEE Transactions on Visualization Computer Graphics (TVCG) 2025
+
+project链接：https://shaohua-pan.github.io/diffcap-page/
+video链接：https://www.youtube.com/watch?v=EYVZ1Cdnb2Y
