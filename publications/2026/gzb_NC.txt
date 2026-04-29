@@ -1,0 +1,3 @@
+Zebin Gao, Guoxun Zhang, Hengrui Liang, Jiaxin Liu, Liangdi Ma, Tianyun Wang, Yanchen Guo, YuJia Chen, Zeping Yan, Xiangru Chen, Jianxing He, Feng Xu, Tien Yin Wong, Yuchen Guo & Qionghai Dai. A lung CT vision foundation model facilitating disease diagnosis and medical imaging. Nat Commun 17, 35 (2026).
+
+Project: https://github.com/gingerbread000/LCTfound

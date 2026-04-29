@@ -1,0 +1,3 @@
+Guoxun Zhang, Zebin Gao, Caohui Duan, Jiaxin Liu, Yuerong Lizhu, Yaou Liu, Qian Chen, Ling Wang, Kailun Fei, Tianyun Wang, YuJia Chen, Yanchen Guo, Feng Xu, Yuchen Guo, Xin Lou, Qionghai Dai. A multi-modal foundation model for brain disease diagnosis and medical imaging. Patterns (2026).
+
+Project: https://github.com/gingerbread000/Brainfound
