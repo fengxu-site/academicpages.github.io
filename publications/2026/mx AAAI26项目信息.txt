@@ -1,0 +1,3 @@
+Xin Ming, Yuxuan Han, Tianyu Huang, Feng Xu, "VGGTFace: Topologically Consistent Facial Geometry Reconstruction in the Wild", AAAI Conference on Artificial Intelligence (AAAI) 2026
+
+Project: https://github.com/grignarder/vggtface
